@@ -10,8 +10,8 @@ In addition, two different kinds of fruit datasets are prepared in this experime
 
 <div style="display: flex; justify-content: space-between;">
   <img src=apple.png alt="Image 1" width="30%">
-  <img src=![citrus](https://github.com/EnzoKeepGoing/LDC-PPYOLOE/assets/155711186/d8000721-e2c8-4950-9678-ec3e795a45b1) alt="Image 2" width="30%">
-  <img src=![passion](https://github.com/EnzoKeepGoing/LDC-PPYOLOE/assets/155711186/0a4d9bfd-e8cc-46fc-8696-5a6f8928b718) alt="Image 3" width="30%">
+  <img src=citrus.png alt="Image 2" width="30%">
+  <img src=passion.png alt="Image 3" width="30%">
 </div>
 ## Download
 The dataset and annotations can be downloaded through Baidu Cloud:
